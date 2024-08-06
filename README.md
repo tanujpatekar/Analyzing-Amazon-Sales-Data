@@ -1,5 +1,5 @@
 # Amazon Sales Power BI Dashboard💰
-<img width="1000" height="600" alt="Coding" src="https://github.com/tanujpatekar/Analyzing-Amazon-Sales-Data/blob/main/Dashboard_Image_Analyzing%20Amazon%20Sales%20Data.jpg">
+<img width="1000" height="500" alt="Coding" src="https://github.com/tanujpatekar/Analyzing-Amazon-Sales-Data/blob/main/Dashboard_Image_Analyzing%20Amazon%20Sales%20Data.jpg">
 
 <h1><a name="introduction">Introduction</a></h1>
 <p>In the fast-paced world of e-commerce, data is a goldmine for optimizing profitability and staying ahead of the competition. The "Amazon Sales Dashboard" project dives deep into Amazon's sales data, offering detailed insights into SKU codes, designs, stock, categories, Channel, Types, and more. This dashboard is a valuable tool for unraveling the complexities of Amazon's operations in Worldwide and making data-driven decisions to maximize profitability.</p>
